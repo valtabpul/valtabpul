@@ -8,13 +8,13 @@
 <tr>
 <td width="5%"></td>
 <td align="center" width="44%">
-  ![Stats](https://img.shields.io/badge/📊%20STATS-ff69b4?style=for-the-badge&labelColor=0d0510)
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=valtabpul&show_icons=true&count_private=true&rank_icon=github&bg_color=0d0510&title_color=ff69b4&text_color=fde8f0&icon_color=ff1493&border_color=ff69b440" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/github/followers/valtabpul?label=Followers&style=for-the-badge&color=ff69b4&labelColor=0d0510" alt="GitHub followers"/>
+
 </td>
 <td width="2%"></td>
 <td align="center" width="44%">
-  ![Languages](https://img.shields.io/badge/🔤%20TOP%20LANGUAGES-ff69b4?style=for-the-badge&labelColor=0d0510)
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valtabpul&layout=compact&langs_count=8&bg_color=0d0510&title_color=ff69b4&text_color=fde8f0&icon_color=ff1493&border_color=ff69b440" alt="Top Langs"/>
+  <img src="https://img.shields.io/github/stars/valtabpul?label=Total%20Stars&style=for-the-badge&color=ff69b4&labelColor=0d0510" alt="GitHub User's stars"/>
+
 </td>
 <td width="5%"></td>
 </tr>
