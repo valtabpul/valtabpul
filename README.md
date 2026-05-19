@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Valeria Taborda Ortiz" width="100%"/>
+  <img src="./assets/banner.svg" alt="Valeria Taborda" width="100%"/>
 </p>
 
 <div align="center">
-
 <table align="center" width="100%">
+
 <tr>
 <td width="5%"></td>
 <td align="center" width="44%">
@@ -21,6 +21,11 @@
 <tr>
 <td></td>
 <td align="center" colspan="3">
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ourjukle5mogmtqtvq5ejuqe&cover_image=false&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ourjukle5mogmtqtvq5ejuqe&redirect=true)
+
+<hr>
   <h3 style="color: #ff69b4;">🔥 Contribution Streak</h3>
   <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=valtabpul&background=0d0510&border=ff69b440&stroke=ff69b440&ring=ff69b4&fire=ff1493&currStreakNum=fde8f0&currStreakLabel=ff69b4&sideNums=fde8f0&sideLabels=ff1493&dates=c47898" alt="Streak"/>
 </td>
