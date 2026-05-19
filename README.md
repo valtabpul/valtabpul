@@ -23,7 +23,7 @@
 <td align="center" colspan="3">
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ourjukle5mogmtqtvq5ejuqe&cover_image=false&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ourjukle5mogmtqtvq5ejuqe&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ourjukle5mogmtqtvq5ejuqe&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c0b9b9&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3ourjukle5mogmtqtvq5ejuqe&redirect=true)
 
 <hr>
   <h3 style="color: #ff69b4;">🔥 Contribution Streak</h3>
